@@ -1,5 +1,6 @@
 # netflix-clone-page
 netflix home page clone #html #css #javascript 
 * add profile icon
-* add banner icon
-![Screenshot 1](screenshot.jpg)
+* add banner icon<br>
+
+![Screenshot 1](screenshot.png)
